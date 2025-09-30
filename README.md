@@ -14,5 +14,5 @@
 ---
 
 ## Results
-- Best model: **Linear Regression(The only one I ran)** (~[accuracy]% 0.8332746196063681)
+- Best model: **Linear Regression(The only one I ran)** (accuracy: 0.8332746196063681)
 
